@@ -43,6 +43,9 @@ public class Security {
     public Long getSecurityId() {
         return securityId;
     }
+    public void setSecurityId(Long securityId) {
+        this.securityId = securityId;
+    }
     public String getName() {
         return name;
     }

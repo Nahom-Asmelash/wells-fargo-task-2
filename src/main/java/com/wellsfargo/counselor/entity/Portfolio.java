@@ -23,6 +23,10 @@ public class Portfolio {
         return portfolioId;
     }
 
+    public void setPortfolioId(Long portfolioId) {
+        this.portfolioId = portfolioId;
+    }
+
     public Client getClient() {
         return client;
     }
