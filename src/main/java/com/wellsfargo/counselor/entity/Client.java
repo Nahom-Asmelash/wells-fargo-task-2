@@ -40,10 +40,6 @@ public class Client {
     public Long getClientId() {
         return clientId;
     }
-    public void setClientId(Long clientId) {
-        this.clientId = clientId;
-    }
-
     public String getFirstName() {
         return firstName;
     }
